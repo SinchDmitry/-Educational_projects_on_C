@@ -1,1 +1,1 @@
-# -Educational_projects_on_C
+# Educational_projects_on_C
